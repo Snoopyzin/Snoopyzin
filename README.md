@@ -1,7 +1,7 @@
 ### Hello World i'm Gabriel Rego 👋
 
 - 🌱 Studying Java/Javascript
-- 👯 Searching for friends in the Coding World
+- 👯 Coding World
 - 📫 Mail to: gabrielregomelo@gmail.com
 <div align="center">
   <a href="https://github.com/snoopyzin">
